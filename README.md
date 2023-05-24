@@ -1,3 +1,1 @@
-Basics of programming
-Basics of C
-Basics of thinking like an engineer
+this is readme.md related to simple shell
